@@ -4,4 +4,4 @@
 
 ##
 
-###### Linguagem usada -> Python
+###### Linguagem -> Python
